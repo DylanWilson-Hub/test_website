@@ -30,7 +30,7 @@ nav {
     height: auto;
 }
 .mainBanner{
-    display: flex;
+    display: flex; /*test*/
 
 }
 .grabber{
